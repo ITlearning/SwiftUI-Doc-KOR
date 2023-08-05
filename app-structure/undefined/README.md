@@ -12,7 +12,7 @@ description: App organization
 
 앱의 구조를 선언적으로 설명해보세요. 마치 뷰의 외관을 짜는 것과 비슷하게요!
 
-[App](https://tabber.gitbook.io/swiftui\_docs\_kr/app-structure/undefined/app) 프로토콜을 준수하는 유형을 만들고, 이를 사용하여 앱의 UI를 나타내는 [Scene](../scenes.md)들을 하나하나 나열해보세요.
+[App](https://tabber.gitbook.io/swiftui\_docs\_kr/app-structure/undefined/app) 프로토콜을 준수하는 유형을 만들고, 이를 사용하여 앱의 UI를 나타내는 [Scene](../scenes/)들을 하나하나 나열해보세요.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ SwiftUI를 사용하면 Apple의 모든 플랫폼에서 작동하는 코드를 �
 
 #### Creating an app
 
-`protocol` [App](app.md)
+`protocol` [App](app/)
 
 &#x20;   앱의 구조와 동작을 나타내는 타입입니다.
 
@@ -68,7 +68,7 @@ SwiftUI를 사용하면 Apple의 모든 플랫폼에서 작동하는 코드를 �
 
 #### App structure
 
-📔 [Scenes](../scenes.md)
+📔 [Scenes](../scenes/)
 
 &#x20;   앱의 구성 요소를 이루는 UI 그룹을 선언하세요.
 
