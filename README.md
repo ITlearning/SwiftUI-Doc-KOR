@@ -14,6 +14,10 @@ description: 한국어 번역 SwiftUI 도큐먼트
 
 많은 제보 부탁드립니다.
 
+Github: [https://github.com/ITlearning](https://github.com/ITlearning)
+
+email: yo7504@kakao.com
+
 감사합니다.
 
 
