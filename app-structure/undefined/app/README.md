@@ -79,10 +79,10 @@ struct Mail: App {
     var body: some Scene {
         WindowGroup {
             MailViewer()
-                .environmentObject(model) // Passed through the environment.
+                .environmentObject(model) // environment를 통해 전달됩니다.
         }
         Settings {
-            SettingsView(model: model) // Passed as an observed object.
+            SettingsView(model: model) // observed object를 통해 전달됩니다.
         }
     }
 }
